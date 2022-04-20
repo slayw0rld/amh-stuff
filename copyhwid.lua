@@ -7,4 +7,3 @@ Notify({
                     Description = "copied hwid!",
                     Duration = 5
                 })
-            end
