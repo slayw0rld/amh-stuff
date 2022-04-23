@@ -1,0 +1,4 @@
+X - cframe tp
+H - Enable Jojo Jump
+P - Force Reset
+Saying “Time Erase!” - Makes u go in invisable
